@@ -16,6 +16,7 @@ class CreateExtraGroupsTable extends Migration
         Schema::create('extra_groups', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name', 127);
+            $table->boolean('forzed')->default(false);
             $table->timestamps();
         });
     }

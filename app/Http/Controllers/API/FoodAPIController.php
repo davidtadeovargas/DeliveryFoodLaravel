@@ -9,7 +9,7 @@
 
 namespace App\Http\Controllers\API;
 
-
+use App\Helpers\LoggerManager;
 use App\Criteria\Foods\NearCriteria;
 use App\Criteria\Foods\FoodsOfCuisinesCriteria;
 use App\Criteria\Foods\TrendingWeekCriteria;
@@ -61,6 +61,9 @@ class FoodAPIController extends Controller
     public function index(Request $request)
     {
         try{
+
+            LoggerManager::getInstance()->log("FoodAPIController-index: Arrived request");
+
             $this->foodRepository->pushCriteria(new RequestCriteria($request));
             $this->foodRepository->pushCriteria(new LimitOffsetCriteria($request));
             $this->foodRepository->pushCriteria(new FoodsOfCuisinesCriteria($request));
@@ -91,6 +94,8 @@ class FoodAPIController extends Controller
      */
     public function show(Request $request, $id)
     {
+        LoggerManager::getInstance()->log("FoodAPIController-show: Arrived request");
+
         /** @var Food $food */
         if (!empty($this->foodRepository)) {
             try{
@@ -118,6 +123,8 @@ class FoodAPIController extends Controller
      */
     public function store(Request $request)
     {
+        LoggerManager::getInstance()->log("FoodAPIController-store: Arrived request");
+
         $input = $request->all();
         $customFields = $this->customFieldRepository->findByField('custom_field_model', $this->foodRepository->model());
         try {
@@ -145,6 +152,8 @@ class FoodAPIController extends Controller
      */
     public function update($id, Request $request)
     {
+        LoggerManager::getInstance()->log("FoodAPIController-update: Arrived request");
+
         $food = $this->foodRepository->findWithoutFail($id);
 
         if (empty($food)) {
@@ -181,6 +190,8 @@ class FoodAPIController extends Controller
      */
     public function destroy($id)
     {
+        LoggerManager::getInstance()->log("FoodAPIController-destroy: Arrived request");
+        
         $food = $this->foodRepository->findWithoutFail($id);
 
         if (empty($food)) {
