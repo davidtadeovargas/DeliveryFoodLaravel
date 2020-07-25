@@ -22,6 +22,7 @@ use App\Repositories\FoodOrderRepository;
 use App\Repositories\UserRepository;
 use Braintree\Gateway;
 use Flash;
+use App\managers\LoggerManager;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Notification;
@@ -168,7 +169,7 @@ class OrderAPIController extends Controller
                     );
                 } else {
                     $order = $this->orderRepository->create(
-                        $request->only('user_id', 'order_status_id', 'tax', 'delivery_address_id', 'delivery_fee', 'hint')
+                        $request->only('user_id', 'order_status_id', 'tax', 'delivery_address_id', 'delivery_fee', 'hint', 'places_car', 'color_car')
                     );
                 }
                 foreach ($input['foods'] as $foodOrder) {
@@ -208,9 +209,32 @@ class OrderAPIController extends Controller
         $input = $request->all();
         $amount = 0;
         try {
-            $order = $this->orderRepository->create(
-                $request->only('user_id', 'order_status_id', 'tax', 'delivery_address_id', 'delivery_fee', 'hint')
-            );
+
+            LoggerManager::getInstance()->log("OrderAPIController-request: ".$request);
+            
+            $only = $request->only( 'user_id', 
+                                    'order_status_id', 
+                                    'tax', 
+                                    'delivery_address_id', 
+                                    'delivery_fee', 
+                                    'hint', 
+                                    'places_car', 
+                                    'color_car');
+
+            $order = $this->orderRepository->create($only);
+
+            LoggerManager::getInstance()->log("OrderAPIController-order: ".$order);
+
+            LoggerManager::getInstance()->log("OrderAPIController-user_id: ".$order->user_id);
+            LoggerManager::getInstance()->log("OrderAPIController-order_status_id: ".$order->order_status_id);
+            LoggerManager::getInstance()->log("OrderAPIController-cashPayment: ".$order->tax);
+            LoggerManager::getInstance()->log("OrderAPIController-hint: ".$order->hint);
+            LoggerManager::getInstance()->log("OrderAPIController-delivery_address_id: ".$order->delivery_address_id);
+            LoggerManager::getInstance()->log("OrderAPIController-delivery_fee: ".$order->delivery_fee);
+            LoggerManager::getInstance()->log("OrderAPIController-places_car: ".$order->places_car);
+            LoggerManager::getInstance()->log("OrderAPIController-color_car: ".$order->color_car);
+
+
             foreach ($input['foods'] as $foodOrder) {
                 $foodOrder['order_id'] = $order->id;
                 $amount += $foodOrder['price'] * $foodOrder['quantity'];
