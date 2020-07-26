@@ -18,3 +18,2054 @@
 2020-07-25 10:55:09pm: RequestCriteria-apply-withCount: 
 2020-07-25 10:55:09pm: RequestCriteria-apply-searchJoin: 
 2020-07-25 10:55:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:56pm: RequestCriteria-apply entered
+2020-07-25 11:02:56pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:56pm: RequestCriteria-apply entered
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:02:56pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:02:56pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:02:56pm: RequestCriteria-apply entered
+2020-07-25 11:02:56pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:02:56pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:56pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:02:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: FoodAPIController-index: Arrived request
+2020-07-25 11:02:57pm: RequestCriteria-apply entered
+2020-07-25 11:02:57pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:57pm: RequestCriteria-apply entered
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: RequestCriteria-apply entered
+2020-07-25 11:02:57pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:02:57pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:57pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:02:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:58pm: RequestCriteria-apply entered
+2020-07-25 11:02:58pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:58pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:02:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:58pm: RequestCriteria-apply entered
+2020-07-25 11:02:58pm: RequestCriteria-apply-search: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:58pm: RequestCriteria-apply-with: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:02:58pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:02:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:02:59pm: FoodAPIController-index: Arrived request
+2020-07-25 11:03:00pm: RequestCriteria-apply entered
+2020-07-25 11:03:00pm: RequestCriteria-apply-search: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:00pm: RequestCriteria-apply-with: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:00pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:03:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:22pm: RequestCriteria-apply entered
+2020-07-25 11:03:22pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:03:22pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:03:22pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:22pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:22pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:03:22pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:22pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:03:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:23pm: RequestCriteria-apply entered
+2020-07-25 11:03:23pm: RequestCriteria-apply-search: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:03:23pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:03:23pm: RequestCriteria-apply-with: user
+2020-07-25 11:03:23pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:03:23pm: RequestCriteria-apply entered
+2020-07-25 11:03:23pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:03:23pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:03:23pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:23pm: RequestCriteria-apply-with: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:03:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:24pm: FoodAPIController-index: Arrived request
+2020-07-25 11:03:24pm: RequestCriteria-apply entered
+2020-07-25 11:03:24pm: RequestCriteria-apply-search: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:24pm: RequestCriteria-apply-with: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:24pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:03:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:56pm: FoodAPIController-index: Arrived request
+2020-07-25 11:03:56pm: RequestCriteria-apply entered
+2020-07-25 11:03:56pm: RequestCriteria-apply-search: name:;description:
+2020-07-25 11:03:56pm: RequestCriteria-apply entered
+2020-07-25 11:03:56pm: RequestCriteria-apply-searchFields: name:like;description:like
+2020-07-25 11:03:56pm: RequestCriteria-apply-search: name:;description:
+2020-07-25 11:03:56pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:56pm: RequestCriteria-apply-searchFields: name:like;description:like
+2020-07-25 11:03:56pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:56pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:56pm: RequestCriteria-apply-orderBy: 
+sc
+2020-07-25 11:03:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:56pm: RequestCriteria-apply-with: 
+t: 
+2020-07-25 11:03:56pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:03:56pm: RequestCriteria-apply-searchJoin: 
+
+2020-07-25 11:03:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:59pm: RequestCriteria-apply entered
+2020-07-25 11:03:59pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:03:59pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:03:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:03:59pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:03:59pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:03:59pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:03:59pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:03:59pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:03:59pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:08pm: RequestCriteria-apply entered
+2020-07-25 11:04:08pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:04:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:08pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:08pm: RequestCriteria-apply entered
+2020-07-25 11:04:08pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:08pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:08pm: RequestCriteria-apply entered
+2020-07-25 11:04:08pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:04:08pm: RequestCriteria-apply-with: user
+2020-07-25 11:04:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:04:09pm: RequestCriteria-apply entered
+2020-07-25 11:04:09pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:09pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:09pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:09pm: RequestCriteria-apply entered
+2020-07-25 11:04:09pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:09pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:09pm: RequestCriteria-apply entered
+2020-07-25 11:04:09pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:09pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:09pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:04:09pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:10pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:21pm: RequestCriteria-apply entered
+2020-07-25 11:04:21pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:04:21pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:04:21pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:21pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:04:21pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:21pm: RequestCriteria-apply entered
+2020-07-25 11:04:21pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:04:21pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:04:21pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:04:21pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:04:21pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:21pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:04:24pm: RequestCriteria-apply entered
+2020-07-25 11:04:24pm: RequestCriteria-apply-search: restaurant_id:1
+2020-07-25 11:04:24pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:24pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:24pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:24pm: RequestCriteria-apply entered
+2020-07-25 11:04:24pm: RequestCriteria-apply entered
+2020-07-25 11:04:24pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-25 11:04:24pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:04:24pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:24pm: RequestCriteria-apply-with: 
+staurant
+2020-07-25 11:04:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:24pm: RequestCriteria-apply-sortedBy: asc
+
+2020-07-25 11:04:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:25pm: RequestCriteria-apply entered
+2020-07-25 11:04:25pm: RequestCriteria-apply-search: restaurant_id:1
+2020-07-25 11:04:25pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:25pm: RequestCriteria-apply-with: user
+2020-07-25 11:04:25pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:25pm: RequestCriteria-apply entered
+2020-07-25 11:04:25pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:04:25pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:04:25pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:25pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:35pm: RequestCriteria-apply entered
+2020-07-25 11:04:35pm: RequestCriteria-apply-search: restaurant.id:1
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchFields: restaurant.id:=
+2020-07-25 11:04:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchJoin: 
+uest
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: RequestCriteria-apply entered
+2020-07-25 11:04:35pm: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:04:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:35pm: RequestCriteria-apply entered
+2020-07-25 11:04:35pm: RequestCriteria-apply-search: category_id:3
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:04:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:35pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:36pm: RequestCriteria-apply entered
+2020-07-25 11:04:36pm: RequestCriteria-apply-search: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:36pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:36pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:04:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:37pm: RequestCriteria-apply entered
+2020-07-25 11:04:37pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:04:37pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:04:37pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:37pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:37pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:37pm: RequestCriteria-apply-with: 
+2020-07-25 11:04:37pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:37pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:37pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:48pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:48pm: RequestCriteria-apply entered
+2020-07-25 11:04:48pm: RequestCriteria-apply-search: category_id:1
+2020-07-25 11:04:48pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:04:48pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:48pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:48pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:48pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:48pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:48pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:48pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:51pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:51pm: RequestCriteria-apply entered
+2020-07-25 11:04:51pm: RequestCriteria-apply-search: category_id:2
+2020-07-25 11:04:51pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:04:51pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:51pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:51pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:51pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:51pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:51pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:51pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:55pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:58pm: FoodAPIController-index: Arrived request
+2020-07-25 11:04:58pm: RequestCriteria-apply entered
+2020-07-25 11:04:58pm: RequestCriteria-apply-search: category_id:4
+2020-07-25 11:04:58pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:04:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:04:58pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:04:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:04:58pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:04:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:04:58pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:04:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:01pm: FoodAPIController-index: Arrived request
+2020-07-25 11:05:05pm: RequestCriteria-apply entered
+2020-07-25 11:05:05pm: RequestCriteria-apply-search: name:;description:
+2020-07-25 11:05:05pm: RequestCriteria-apply-searchFields: name:like;description:like
+2020-07-25 11:05:05pm: RequestCriteria-apply-filter: 
+2020-07-25 11:05:05pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:05:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:05pm: RequestCriteria-apply-with: 
+2020-07-25 11:05:05pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:05:05pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:05:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:06pm: FoodAPIController-index: Arrived request
+2020-07-25 11:05:06pm: RequestCriteria-apply entered
+2020-07-25 11:05:06pm: RequestCriteria-apply-search: name:;description:
+2020-07-25 11:05:06pm: RequestCriteria-apply-searchFields: name:like;description:like
+2020-07-25 11:05:06pm: RequestCriteria-apply-filter: 
+2020-07-25 11:05:06pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:05:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:06pm: RequestCriteria-apply-with: 
+2020-07-25 11:05:06pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:05:06pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:05:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:11pm: FoodAPIController-index: Arrived request
+2020-07-25 11:05:26pm: RequestCriteria-apply entered
+2020-07-25 11:05:26pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:05:26pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:05:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:26pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:05:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:26pm: FoodAPIController-show: Arrived request
+2020-07-25 11:05:26pm: RequestCriteria-apply entered
+2020-07-25 11:05:26pm: RequestCriteria-apply-search: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:26pm: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-25 11:05:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:05:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:28pm: RequestCriteria-apply entered
+2020-07-25 11:05:28pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:05:28pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:05:28pm: RequestCriteria-apply-filter: 
+2020-07-25 11:05:28pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:05:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:05:28pm: RequestCriteria-apply-with: 
+2020-07-25 11:05:28pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:05:28pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:05:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:03pm: FoodAPIController-show: Arrived request
+2020-07-25 11:07:03pm: RequestCriteria-apply entered
+2020-07-25 11:07:03pm: RequestCriteria-apply-search: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:03pm: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-25 11:07:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:05pm: RequestCriteria-apply entered
+2020-07-25 11:07:05pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:07:05pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:07:05pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:05pm: RequestCriteria-apply-with: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:05pm: RequestCriteria-apply entered
+2020-07-25 11:07:05pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:07:05pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:07:05pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:05pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:07:05pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:30pm: RequestCriteria-apply entered
+2020-07-25 11:07:30pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:07:30pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:07:30pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:30pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:07:30pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:30pm: FoodAPIController-show: Arrived request
+2020-07-25 11:07:30pm: RequestCriteria-apply entered
+2020-07-25 11:07:30pm: RequestCriteria-apply-search: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:30pm: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-25 11:07:30pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:32pm: RequestCriteria-apply entered
+2020-07-25 11:07:32pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:07:32pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:07:32pm: RequestCriteria-apply-filter: 
+2020-07-25 11:07:32pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:07:32pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:07:32pm: RequestCriteria-apply-with: 
+2020-07-25 11:07:32pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:07:32pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:07:32pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:18pm: RequestCriteria-apply entered
+2020-07-25 11:08:18pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:18pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:18pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:18pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:20pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:20pm: RequestCriteria-apply entered
+2020-07-25 11:08:20pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:20pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:20pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:20pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:21pm: RequestCriteria-apply entered
+2020-07-25 11:08:21pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:21pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:21pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:22pm: RequestCriteria-apply entered
+2020-07-25 11:08:22pm: RequestCriteria-apply-search: restaurant_id:2
+2020-07-25 11:08:22pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:22pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:22pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:22pm: RequestCriteria-apply entered
+2020-07-25 11:08:22pm: RequestCriteria-apply-search: restaurant_id:2;featured:1
+2020-07-25 11:08:22pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:08:22pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:22pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:08:22pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:22pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply entered
+2020-07-25 11:08:23pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply entered
+2020-07-25 11:08:23pm: RequestCriteria-apply-search: restaurant_id:2
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply-with: user
+2020-07-25 11:08:23pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply entered
+2020-07-25 11:08:23pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:23pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:23pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:23pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:24pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:24pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:24pm: RequestCriteria-apply entered
+2020-07-25 11:08:24pm: RequestCriteria-apply-search: category_id:1
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:08:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:24pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:08:24pm: RequestCriteria-apply entered
+: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-search: restaurant.id:2
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchFields: restaurant.id:=
+2020-07-25 11:08:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:24pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:08:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:24pm: RequestCriteria-apply entered
+2020-07-25 11:08:24pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:24pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: RequestCriteria-apply entered
+2020-07-25 11:08:25pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:25pm: RequestCriteria-apply entered
+2020-07-25 11:08:25pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: RequestCriteria-apply entered
+2020-07-25 11:08:25pm: RequestCriteria-apply-search: restaurant_id:2;featured:1
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:08:25pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:25pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:08:25pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:25pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:26pm: RequestCriteria-apply entered
+2020-07-25 11:08:26pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:26pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:26pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:08:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:27pm: FoodAPIController-show: Arrived request
+2020-07-25 11:08:27pm: RequestCriteria-apply entered
+2020-07-25 11:08:27pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:27pm: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-25 11:08:27pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:27pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:28pm: RequestCriteria-apply entered
+2020-07-25 11:08:28pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:08:28pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:28pm: RequestCriteria-apply-with: user
+2020-07-25 11:08:28pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:28pm: RequestCriteria-apply entered
+2020-07-25 11:08:28pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:28pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:28pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:28pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:55pm: RequestCriteria-apply entered
+2020-07-25 11:08:55pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:55pm: RequestCriteria-apply entered
+2020-07-25 11:08:55pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:08:55pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-with: user
+2020-07-25 11:08:55pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:08:55pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:55pm: RequestCriteria-apply-with: user
+2020-07-25 11:08:55pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:55pm: RequestCriteria-apply entered
+2020-07-25 11:08:55pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:55pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:55pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:55pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:56pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:56pm: RequestCriteria-apply entered
+2020-07-25 11:08:56pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:56pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:56pm: RequestCriteria-apply entered
+2020-07-25 11:08:56pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:08:56pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:56pm: RequestCriteria-apply entered
+ asc
+2020-07-25 11:08:56pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:56pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:56pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:56pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:56pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:57pm: RequestCriteria-apply entered
+2020-07-25 11:08:57pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:57pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:57pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:57pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:58pm: RequestCriteria-apply entered
+2020-07-25 11:08:58pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:58pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:58pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:58pm: FoodAPIController-index: Arrived request
+2020-07-25 11:08:59pm: RequestCriteria-apply entered
+2020-07-25 11:08:59pm: RequestCriteria-apply-search: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:59pm: RequestCriteria-apply-with: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:08:59pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:08:59pm: RequestCriteria-apply entered
+2020-07-25 11:08:59pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:08:59pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:08:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:08:59pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:08:59pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:08:59pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:08:59pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:03pm: RequestCriteria-apply entered
+2020-07-25 11:09:03pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:09:03pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:09:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:03pm: RequestCriteria-apply-with: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:03pm: RequestCriteria-apply entered
+2020-07-25 11:09:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:09:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:03pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:09:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-orderBy: id
+2020-07-25 11:09:03pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:03pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:09:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:03pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:22pm: RequestCriteria-apply entered
+2020-07-25 11:09:22pm: RequestCriteria-apply-search: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:22pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;deliveryAddress;payment
+2020-07-25 11:09:22pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:22pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:24pm: RequestCriteria-apply entered
+2020-07-25 11:09:24pm: RequestCriteria-apply-search: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:24pm: RequestCriteria-apply-with: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:24pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:26pm: RequestCriteria-apply entered
+2020-07-25 11:09:26pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:09:26pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:09:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:09:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:26pm: RequestCriteria-apply-with: 
+2020-07-25 11:09:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:45pm: RequestCriteria-apply entered
+2020-07-25 11:09:45pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:09:45pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:09:45pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:45pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:09:45pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:45pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:09:45pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:45pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:09:45pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:53pm: RequestCriteria-apply entered
+2020-07-25 11:09:53pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:09:53pm: RequestCriteria-apply-search: notifiable_id:7
+2020-07-25 11:09:53pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:09:53pm: RequestCriteria-apply-searchFields: notifiable_id:=
+2020-07-25 11:09:53pm: RequestCriteria-apply-filter: 
+2020-07-25 11:09:53pm: RequestCriteria-apply-orderBy: 
+eated_at
+2020-07-25 11:09:53pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:53pm: RequestCriteria-apply-with: 
+2020-07-25 11:09:53pm: RequestCriteria-apply-with: 
+2020-07-25 11:09:53pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:09:53pm: RequestCriteria-apply-withCount: 
+
+2020-07-25 11:09:53pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:09:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:09:59pm: RequestCriteria-apply entered
+2020-07-25 11:10:00pm: RequestCriteria-apply entered
+2020-07-25 11:10:00pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:00pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:10:00pm: RequestCriteria-apply-with: user
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:10:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:00pm: RequestCriteria-apply entered
+2020-07-25 11:10:00pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:00pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:00pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: RequestCriteria-apply entered
+2020-07-25 11:10:01pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: FoodAPIController-index: Arrived request
+2020-07-25 11:10:01pm: RequestCriteria-apply entered
+2020-07-25 11:10:01pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: RequestCriteria-apply entered
+2020-07-25 11:10:01pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:01pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:01pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:01pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: RequestCriteria-apply entered
+2020-07-25 11:10:02pm: RequestCriteria-apply-search: restaurant_id:1
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: RequestCriteria-apply entered
+2020-07-25 11:10:02pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: FoodAPIController-index: Arrived request
+2020-07-25 11:10:02pm: RequestCriteria-apply entered
+2020-07-25 11:10:02pm: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:10:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:02pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:10:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:02pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:03pm: RequestCriteria-apply entered
+2020-07-25 11:10:03pm: RequestCriteria-apply-search: restaurant_id:1
+2020-07-25 11:10:03pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:03pm: RequestCriteria-apply-with: user
+2020-07-25 11:10:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:03pm: RequestCriteria-apply entered
+2020-07-25 11:10:03pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:03pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:03pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: FoodAPIController-index: Arrived request
+2020-07-25 11:10:06pm: RequestCriteria-apply entered
+2020-07-25 11:10:06pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:06pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: RequestCriteria-apply entered
+2020-07-25 11:10:06pm: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-25 11:10:06pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:10:06pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: FoodAPIController-index: Arrived request
+2020-07-25 11:10:06pm: RequestCriteria-apply entered
+2020-07-25 11:10:06pm: RequestCriteria-apply-search: category_id:3
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchFields: category_id:=
+2020-07-25 11:10:06pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:06pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:10:06pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:08pm: RequestCriteria-apply entered
+2020-07-25 11:10:08pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:08pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:10:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:08pm: FoodAPIController-index: Arrived request
+2020-07-25 11:10:08pm: RequestCriteria-apply entered
+2020-07-25 11:10:08pm: RequestCriteria-apply-search: restaurant.id:1
+2020-07-25 11:10:08pm: RequestCriteria-apply-searchFields: restaurant.id:=
+2020-07-25 11:10:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:08pm: RequestCriteria-apply-with: restaurant
+2020-07-25 11:10:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:10pm: FoodAPIController-show: Arrived request
+2020-07-25 11:10:10pm: RequestCriteria-apply entered
+2020-07-25 11:10:10pm: RequestCriteria-apply-search: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:10pm: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-25 11:10:10pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:10pm: RequestCriteria-apply entered
+2020-07-25 11:10:10pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:10pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:10pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:10pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:10:10pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:12pm: RequestCriteria-apply entered
+2020-07-25 11:10:12pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:12pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:12pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:12pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:12pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:12pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:12pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:12pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:12pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:15pm: RequestCriteria-apply entered
+2020-07-25 11:10:15pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:15pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:15pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:15pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:15pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:15pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:15pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:15pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:15pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:17pm: RequestCriteria-apply entered
+2020-07-25 11:10:17pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:17pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:17pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:17pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:17pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:17pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:10:17pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:17pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:17pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:27pm: RequestCriteria-apply entered
+2020-07-25 11:10:27pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:27pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:27pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:27pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:27pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:27pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:10:27pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:27pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:27pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:28pm: RequestCriteria-apply entered
+2020-07-25 11:10:28pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:28pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:28pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:28pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:28pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:28pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:28pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:28pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:53pm: RequestCriteria-apply entered
+2020-07-25 11:10:53pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:53pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:53pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:53pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:53pm: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-25 11:10:53pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:53pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:58pm: RequestCriteria-apply entered
+2020-07-25 11:10:58pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:10:58pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:10:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:58pm: RequestCriteria-apply-with: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:10:58pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:10:58pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:10:58pm: RequestCriteria-apply-filter: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-orderBy: id
+2020-07-25 11:10:58pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:10:58pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:10:58pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:10:58pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:11:14pm: RequestCriteria-apply entered
+2020-07-25 11:11:14pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:14pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;deliveryAddress;payment
+2020-07-25 11:11:14pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:17pm: RequestCriteria-apply entered
+2020-07-25 11:11:17pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:17pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:17pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:18pm: RequestCriteria-apply entered
+2020-07-25 11:11:18pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:11:18pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:11:18pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:18pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:18pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:18pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:18pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:18pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:18pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:26pm: RequestCriteria-apply entered
+2020-07-25 11:11:26pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:26pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:35pm: RequestCriteria-apply entered
+2020-07-25 11:11:35pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:11:35pm: RequestCriteria-apply-with: user
+2020-07-25 11:11:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:11:35pm: RequestCriteria-apply entered
+2020-07-25 11:11:35pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:11:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:35pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:35pm: RequestCriteria-apply entered
+2020-07-25 11:11:35pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:35pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:35pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:11:35pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:36pm: RequestCriteria-apply entered
+2020-07-25 11:11:36pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:36pm: FoodAPIController-index: Arrived request
+2020-07-25 11:11:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:36pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:11:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:36pm: RequestCriteria-apply entered
+2020-07-25 11:11:36pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:36pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:36pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:11:36pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:37pm: RequestCriteria-apply entered
+2020-07-25 11:11:37pm: RequestCriteria-apply-search: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:37pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:37pm: RequestCriteria-apply entered
+2020-07-25 11:11:37pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: asc
+ser_id:=
+2020-07-25 11:11:37pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:37pm: RequestCriteria-apply-with: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:11:37pm: RequestCriteria-apply entered
+2020-07-25 11:11:37pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:11:37pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:11:37pm: RequestCriteria-apply-filter: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-orderBy: id
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:11:37pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:11:37pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:11:37pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:12:08pm: RequestCriteria-apply entered
+2020-07-25 11:12:08pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:12:08pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:12:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:12:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:12:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:12:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:12:08pm: RequestCriteria-apply-with: food;user;extras
+2020-07-25 11:12:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:12:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:12:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:08pm: RequestCriteria-apply entered
+2020-07-25 11:13:08pm: RequestCriteria-apply-search: notifiable_id:7
+2020-07-25 11:13:08pm: RequestCriteria-apply-searchFields: notifiable_id:=
+2020-07-25 11:13:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-orderBy: created_at
+2020-07-25 11:13:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:08pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:08pm: RequestCriteria-apply entered
+2020-07-25 11:13:08pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:08pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:08pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:08pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:16pm: RequestCriteria-apply entered
+2020-07-25 11:13:16pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:16pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:16pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:16pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:26pm: RequestCriteria-apply entered
+2020-07-25 11:13:26pm: RequestCriteria-apply-search: notifiable_id:7
+2020-07-25 11:13:26pm: RequestCriteria-apply-searchFields: notifiable_id:=
+2020-07-25 11:13:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-orderBy: created_at
+2020-07-25 11:13:26pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:26pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:26pm: RequestCriteria-apply entered
+2020-07-25 11:13:26pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:26pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:26pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:26pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:26pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:29pm: RequestCriteria-apply entered
+2020-07-25 11:13:29pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:29pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:29pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:30pm: RequestCriteria-apply-with: user
+2020-07-25 11:13:30pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:30pm: RequestCriteria-apply entered
+2020-07-25 11:13:30pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:30pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:30pm: RequestCriteria-apply entered
+2020-07-25 11:13:30pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:30pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:30pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:30pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:30pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: FoodAPIController-index: Arrived request
+2020-07-25 11:13:31pm: RequestCriteria-apply entered
+2020-07-25 11:13:31pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: RequestCriteria-apply entered
+2020-07-25 11:13:31pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-withCount: 
+ 
+2020-07-25 11:13:31pm: RequestCriteria-apply-filter: 
+: and
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: RequestCriteria-apply entered
+2020-07-25 11:13:31pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:31pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:31pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:13:31pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:32pm: RequestCriteria-apply entered
+2020-07-25 11:13:32pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:13:32pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:32pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:13:32pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:32pm: RequestCriteria-apply entered
+2020-07-25 11:13:32pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:13:32pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:32pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:13:32pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:32pm: RequestCriteria-apply entered
+2020-07-25 11:13:32pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:32pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:32pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:32pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:41pm: RequestCriteria-apply entered
+2020-07-25 11:13:41pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:13:41pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:13:41pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:41pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:41pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:41pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:13:41pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:41pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:41pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:44pm: RequestCriteria-apply entered
+2020-07-25 11:13:44pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:44pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:44pm: RequestCriteria-apply-with: user
+2020-07-25 11:13:44pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:44pm: RequestCriteria-apply entered
+2020-07-25 11:13:44pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:44pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:44pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:44pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:44pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:45pm: FoodAPIController-index: Arrived request
+2020-07-25 11:13:45pm: RequestCriteria-apply entered
+2020-07-25 11:13:45pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:45pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:45pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:13:45pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:46pm: RequestCriteria-apply entered
+2020-07-25 11:13:46pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:13:46pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:13:46pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:46pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:13:46pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:46pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:13:46pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:46pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:46pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:53pm: RequestCriteria-apply entered
+2020-07-25 11:13:53pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:53pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:53pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:53pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:13:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:53pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:53pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:53pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:53pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:59pm: RequestCriteria-apply entered
+2020-07-25 11:13:59pm: RequestCriteria-apply entered
+2020-07-25 11:13:59pm: RequestCriteria-apply-search: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-searchFields: 
+7
+2020-07-25 11:13:59pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-orderBy: 
+dated_at
+2020-07-25 11:13:59pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:59pm: RequestCriteria-apply-with: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:13:59pm: RequestCriteria-apply-with: user
+2020-07-25 11:13:59pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:13:59pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:13:59pm: RequestCriteria-apply entered
+2020-07-25 11:13:59pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:13:59pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:13:59pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:00pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:00pm: RequestCriteria-apply entered
+2020-07-25 11:14:00pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:00pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:00pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:00pm: RequestCriteria-apply entered
+2020-07-25 11:14:00pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:14:00pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:14:00pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-orderBy: id
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:00pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:14:00pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:00pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply entered
+2020-07-25 11:14:01pm: RequestCriteria-apply-search: notifiable_id:7
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchFields: notifiable_id:=
+2020-07-25 11:14:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-orderBy: created_at
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply entered
+2020-07-25 11:14:01pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply entered
+2020-07-25 11:14:01pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:01pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:01pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:01pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:02pm: RequestCriteria-apply entered
+2020-07-25 11:14:02pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply entered
+2020-07-25 11:14:02pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply entered
+2020-07-25 11:14:02pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:02pm: RequestCriteria-apply entered
+2020-07-25 11:14:02pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:02pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:03pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:03pm: RequestCriteria-apply entered
+2020-07-25 11:14:03pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:03pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:03pm: RequestCriteria-apply entered
+2020-07-25 11:14:03pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:03pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:03pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:03pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:04pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:04pm: RequestCriteria-apply entered
+2020-07-25 11:14:04pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:04pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:04pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:04pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:04pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:05pm: RequestCriteria-apply entered
+2020-07-25 11:14:05pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:05pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:05pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:05pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:06pm: RequestCriteria-apply entered
+2020-07-25 11:14:06pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:06pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:06pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:06pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:07pm: RequestCriteria-apply entered
+2020-07-25 11:14:07pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:07pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:07pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:07pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:07pm: RequestCriteria-apply entered
+2020-07-25 11:14:07pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:07pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:07pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:07pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:08pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:08pm: RequestCriteria-apply entered
+2020-07-25 11:14:08pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:08pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:08pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:08pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:08pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:08pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:08pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:08pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:09pm: RequestCriteria-apply entered
+2020-07-25 11:14:09pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:14:09pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:14:09pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:09pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:09pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:14:09pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:09pm: RequestCriteria-apply entered
+2020-07-25 11:14:09pm: RequestCriteria-apply-search: notifiable_id:7
+2020-07-25 11:14:09pm: RequestCriteria-apply-searchFields: notifiable_id:=
+2020-07-25 11:14:09pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-orderBy: created_at
+2020-07-25 11:14:09pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:09pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:09pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:10pm: RequestCriteria-apply entered
+2020-07-25 11:14:10pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:10pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:10pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:10pm: RequestCriteria-apply entered
+2020-07-25 11:14:10pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:10pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:10pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:10pm: RequestCriteria-apply entered
+2020-07-25 11:14:10pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:10pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:10pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:10pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply entered
+2020-07-25 11:14:11pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:14:11pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-orderBy: id
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:11pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:14:11pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:11pm: RequestCriteria-apply entered
+2020-07-25 11:14:11pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:11pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply entered
+2020-07-25 11:14:11pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:11pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply entered
+2020-07-25 11:14:11pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:11pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:11pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:11pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:12pm: RequestCriteria-apply entered
+2020-07-25 11:14:12pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:12pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:12pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:12pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:12pm: RequestCriteria-apply entered
+2020-07-25 11:14:12pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:12pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:12pm: RequestCriteria-apply-with: user
+2020-07-25 11:14:12pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:12pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:13pm: RequestCriteria-apply entered
+2020-07-25 11:14:13pm: RequestCriteria-apply-search: user_id:7
+2020-07-25 11:14:13pm: RequestCriteria-apply-searchFields: user_id:=
+2020-07-25 11:14:13pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:13pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:13pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:13pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:13pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:13pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:13pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:13pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:14pm: RequestCriteria-apply entered
+2020-07-25 11:14:14pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:14pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:14pm: RequestCriteria-apply entered
+2020-07-25 11:14:14pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:14pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:14pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:14pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:15pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:15pm: RequestCriteria-apply entered
+2020-07-25 11:14:15pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:15pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:15pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:15pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:16pm: RequestCriteria-apply entered
+2020-07-25 11:14:16pm: RequestCriteria-apply-search: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-searchFields: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-orderBy: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:16pm: RequestCriteria-apply-with: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:16pm: RequestCriteria-apply-searchJoin: and
+2020-07-25 11:14:16pm: RequestCriteria-apply-sortedBy: asc
+2020-07-25 11:14:16pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:16pm: FoodAPIController-index: Arrived request
+2020-07-25 11:14:18pm: RequestCriteria-apply entered
+2020-07-25 11:14:18pm: RequestCriteria-apply-search: user.id:7
+2020-07-25 11:14:18pm: RequestCriteria-apply-searchFields: user.id:=
+2020-07-25 11:14:18pm: RequestCriteria-apply-filter: 
+2020-07-25 11:14:18pm: RequestCriteria-apply-orderBy: updated_at
+2020-07-25 11:14:18pm: RequestCriteria-apply-sortedBy: desc
+2020-07-25 11:14:18pm: RequestCriteria-apply-with: user;foodOrders;foodOrders.food;orderStatus;payment
+2020-07-25 11:14:18pm: RequestCriteria-apply-withCount: 
+2020-07-25 11:14:18pm: RequestCriteria-apply-searchJoin: 
+2020-07-25 11:14:18pm: RequestCriteria-apply-sortedBy: desc
+2020-07-26 04:25:15am: RequestCriteria-apply entered
+2020-07-26 04:25:15am: RequestCriteria-apply-search: 
+2020-07-26 04:25:15am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:15am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:15am: RequestCriteria-apply entered
+2020-07-26 04:25:15am: RequestCriteria-apply-orderBy: updated_at
+2020-07-26 04:25:15am: RequestCriteria-apply-search: 
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: desc
+2020-07-26 04:25:15am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:15am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:15am: RequestCriteria-apply-with: user
+2020-07-26 04:25:15am: RequestCriteria-apply-orderBy: updated_at
+2020-07-26 04:25:15am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: desc
+2020-07-26 04:25:15am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:15am: RequestCriteria-apply-with: user
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: desc
+2020-07-26 04:25:15am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:15am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: desc
+2020-07-26 04:25:15am: RequestCriteria-apply entered
+2020-07-26 04:25:15am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:15am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:15am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:15am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:15am: RequestCriteria-apply-with: 
+2020-07-26 04:25:15am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:15am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:15am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:16am: RequestCriteria-apply entered
+2020-07-26 04:25:16am: RequestCriteria-apply-search: 
+2020-07-26 04:25:16am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:16am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:16am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: RequestCriteria-apply-with: 
+2020-07-26 04:25:16am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:16am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: RequestCriteria-apply entered
+2020-07-26 04:25:16am: RequestCriteria-apply-search: 
+2020-07-26 04:25:16am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:16am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:16am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: RequestCriteria-apply-with: 
+2020-07-26 04:25:16am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:16am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: RequestCriteria-apply entered
+2020-07-26 04:25:16am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:16am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:16am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:16am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:16am: RequestCriteria-apply-with: 
+2020-07-26 04:25:16am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:16am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:16am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:17am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:17am: RequestCriteria-apply entered
+2020-07-26 04:25:17am: RequestCriteria-apply-search: 
+2020-07-26 04:25:17am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:17am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:17am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:17am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:17am: RequestCriteria-apply-with: 
+2020-07-26 04:25:17am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:17am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:17am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:17am: RequestCriteria-apply entered
+2020-07-26 04:25:17am: RequestCriteria-apply-search: 
+2020-07-26 04:25:17am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:17am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:17am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:17am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:17am: RequestCriteria-apply-with: 
+2020-07-26 04:25:17am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:17am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:17am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:18am: RequestCriteria-apply entered
+2020-07-26 04:25:18am: RequestCriteria-apply-search: 
+2020-07-26 04:25:18am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:18am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:18am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:18am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:18am: RequestCriteria-apply-with: 
+2020-07-26 04:25:18am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:18am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:18am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:34am: RequestCriteria-apply entered
+2020-07-26 04:25:34am: RequestCriteria-apply-search: restaurant_id:1
+2020-07-26 04:25:34am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:34am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:34am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:34am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:34am: RequestCriteria-apply-with: user
+2020-07-26 04:25:34am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:34am: RequestCriteria-apply-search: restaurant_id:1
+2020-07-26 04:25:34am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:34am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:34am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:34am: RequestCriteria-apply entered
+2020-07-26 04:25:34am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:34am: RequestCriteria-apply-search: 
+2020-07-26 04:25:34am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:34am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:34am: RequestCriteria-apply-filter: 
+asc
+2020-07-26 04:25:34am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:34am: RequestCriteria-apply-withCount: 
+
+2020-07-26 04:25:34am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:34am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:34am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:34am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:34am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:36am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:36am: RequestCriteria-apply entered
+2020-07-26 04:25:36am: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-26 04:25:36am: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-26 04:25:36am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:36am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:36am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:36am: RequestCriteria-apply-with: restaurant
+2020-07-26 04:25:36am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:36am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:36am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:36am: RequestCriteria-apply entered
+2020-07-26 04:25:36am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:36am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:36am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:36am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:36am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:36am: RequestCriteria-apply-with: 
+2020-07-26 04:25:36am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:36am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:36am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:40am: RequestCriteria-apply entered
+2020-07-26 04:25:40am: RequestCriteria-apply-search: restaurant_id:1;featured:1
+2020-07-26 04:25:40am: RequestCriteria-apply-searchFields: restaurant_id:=;featured:=
+2020-07-26 04:25:40am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:40am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: RequestCriteria-apply-with: restaurant
+2020-07-26 04:25:40am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:40am: RequestCriteria-apply entered
+2020-07-26 04:25:40am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:40am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:40am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:40am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: RequestCriteria-apply-with: 
+2020-07-26 04:25:40am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:40am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:40am: RequestCriteria-apply entered
+2020-07-26 04:25:40am: RequestCriteria-apply-search: category_id:3
+2020-07-26 04:25:40am: RequestCriteria-apply-searchFields: category_id:=
+2020-07-26 04:25:40am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:40am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:40am: RequestCriteria-apply-with: restaurant
+2020-07-26 04:25:40am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:40am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:40am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:41am: FoodAPIController-index: Arrived request
+2020-07-26 04:25:41am: RequestCriteria-apply entered
+2020-07-26 04:25:41am: RequestCriteria-apply-search: restaurant.id:1
+2020-07-26 04:25:41am: RequestCriteria-apply-searchFields: restaurant.id:=
+2020-07-26 04:25:41am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:41am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:41am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:41am: RequestCriteria-apply-with: restaurant
+2020-07-26 04:25:41am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:41am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:41am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:42am: RequestCriteria-apply entered
+2020-07-26 04:25:42am: RequestCriteria-apply-search: 
+2020-07-26 04:25:42am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:42am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:42am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:42am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:42am: RequestCriteria-apply-with: 
+2020-07-26 04:25:42am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:42am: RequestCriteria-apply-searchJoin: and
+2020-07-26 04:25:42am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:43am: FoodAPIController-show: Arrived request
+2020-07-26 04:25:43am: RequestCriteria-apply entered
+2020-07-26 04:25:43am: RequestCriteria-apply-search: 
+2020-07-26 04:25:43am: RequestCriteria-apply-searchFields: 
+2020-07-26 04:25:43am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:43am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:43am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:43am: RequestCriteria-apply-with: nutrition;restaurant;category;extras;extraGroups;foodReviews;foodReviews.user
+2020-07-26 04:25:43am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:43am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:43am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:43am: RequestCriteria-apply entered
+2020-07-26 04:25:43am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:43am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:43am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:43am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:43am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:43am: RequestCriteria-apply-with: food;food.restaurant;extras
+2020-07-26 04:25:43am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:43am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:43am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:45am: RequestCriteria-apply entered
+2020-07-26 04:25:45am: RequestCriteria-apply-search: user_id:7
+2020-07-26 04:25:45am: RequestCriteria-apply-searchFields: user_id:=
+2020-07-26 04:25:45am: RequestCriteria-apply-filter: 
+2020-07-26 04:25:45am: RequestCriteria-apply-orderBy: 
+2020-07-26 04:25:45am: RequestCriteria-apply-sortedBy: asc
+2020-07-26 04:25:45am: RequestCriteria-apply-with: 
+2020-07-26 04:25:45am: RequestCriteria-apply-withCount: 
+2020-07-26 04:25:45am: RequestCriteria-apply-searchJoin: 
+2020-07-26 04:25:45am: RequestCriteria-apply-sortedBy: asc
