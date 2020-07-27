@@ -16,3 +16,75 @@ User-Agent:      Dart/2.8 (dart:io)
 2020-07-25 11:10:54pm: OrderAPIController-delivery_fee: 0
 2020-07-25 11:10:54pm: OrderAPIController-places_car: HKHUK
 2020-07-25 11:10:54pm: OrderAPIController-color_car: red
+2020-07-27 03:41:48am: OrderAPIController-request: POST /api/orders?api_token=jcfEIPH1eUsh3DEf03UFcX1ilWoLkg4mUTI8PmNwMWdApsFHA0k1ksJ7rz0p HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  612
+Content-Type:    application/json; charset=utf-8
+Host:            192.168.1.188
+Mod-Rewrite:     on
+User-Agent:      Dart/2.8 (dart:io)
+
+{"id":null,"user_id":"7","order_status_id":"1","tax":9.24,"hint":null,"delivery_fee":0.0,"places_car":"YKUY","color_car":"tjytt","foods":[{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":[]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":[]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":[]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":[]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["48"]}],"payment":{"id":null,"status":null,"method":"Pay on Pickup"},"stripe_number":"","stripe_exp_month":"","stripe_exp_year":"","stripe_cvc":""}
+2020-07-27 03:41:48am: OrderAPIController-order: {"user_id":7,"order_status_id":1,"tax":9.2400000000000002131628207280300557613372802734375,"delivery_fee":0,"hint":null,"places_car":"YKUY","color_car":"tjytt","updated_at":"2020-07-27 03:41:48","created_at":"2020-07-27 03:41:48","id":17,"custom_fields":[]}
+2020-07-27 03:41:48am: OrderAPIController-user_id: 7
+2020-07-27 03:41:48am: OrderAPIController-order_status_id: 1
+2020-07-27 03:41:48am: OrderAPIController-cashPayment: 9.24
+2020-07-27 03:41:48am: OrderAPIController-hint: 
+2020-07-27 03:41:48am: OrderAPIController-delivery_address_id: 
+2020-07-27 03:41:48am: OrderAPIController-delivery_fee: 0
+2020-07-27 03:41:48am: OrderAPIController-places_car: YKUY
+2020-07-27 03:41:48am: OrderAPIController-color_car: tjytt
+2020-07-27 03:43:11am: OrderAPIController-request: POST /api/orders?api_token=jcfEIPH1eUsh3DEf03UFcX1ilWoLkg4mUTI8PmNwMWdApsFHA0k1ksJ7rz0p HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  352
+Content-Type:    application/json; charset=utf-8
+Host:            192.168.1.188
+Mod-Rewrite:     on
+User-Agent:      Dart/2.8 (dart:io)
+
+{"id":null,"user_id":"7","order_status_id":"1","tax":9.24,"hint":null,"delivery_fee":0.0,"places_car":"HHRHU","color_car":"yhj","foods":[{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["10","34"]}],"payment":{"id":null,"status":null,"method":"Pay on Pickup"},"stripe_number":"","stripe_exp_month":"","stripe_exp_year":"","stripe_cvc":""}
+2020-07-27 03:43:11am: OrderAPIController-order: {"user_id":7,"order_status_id":1,"tax":9.2400000000000002131628207280300557613372802734375,"delivery_fee":0,"hint":null,"places_car":"HHRHU","color_car":"yhj","updated_at":"2020-07-27 03:43:11","created_at":"2020-07-27 03:43:11","id":18,"custom_fields":[]}
+2020-07-27 03:43:11am: OrderAPIController-user_id: 7
+2020-07-27 03:43:11am: OrderAPIController-order_status_id: 1
+2020-07-27 03:43:11am: OrderAPIController-cashPayment: 9.24
+2020-07-27 03:43:11am: OrderAPIController-hint: 
+2020-07-27 03:43:11am: OrderAPIController-delivery_address_id: 
+2020-07-27 03:43:11am: OrderAPIController-delivery_fee: 0
+2020-07-27 03:43:11am: OrderAPIController-places_car: HHRHU
+2020-07-27 03:43:11am: OrderAPIController-color_car: yhj
+2020-07-27 04:25:39am: OrderAPIController-request: POST /api/orders?api_token=jcfEIPH1eUsh3DEf03UFcX1ilWoLkg4mUTI8PmNwMWdApsFHA0k1ksJ7rz0p HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  420
+Content-Type:    application/json; charset=utf-8
+Host:            192.168.1.188
+Mod-Rewrite:     on
+User-Agent:      Dart/2.8 (dart:io)
+
+{"id":null,"user_id":"7","order_status_id":"1","tax":9.24,"hint":null,"delivery_fee":0.0,"places_car":"HJUI77","color_car":"yhuuu","foods":[{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["10"]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["48"]}],"payment":{"id":null,"status":null,"method":"Pay on Pickup"},"stripe_number":"","stripe_exp_month":"","stripe_exp_year":"","stripe_cvc":""}
+2020-07-27 04:25:39am: OrderAPIController-order: {"user_id":7,"order_status_id":1,"tax":9.2400000000000002131628207280300557613372802734375,"delivery_fee":0,"hint":null,"places_car":"HJUI77","color_car":"yhuuu","updated_at":"2020-07-27 04:25:39","created_at":"2020-07-27 04:25:39","id":19,"custom_fields":[]}
+2020-07-27 04:25:39am: OrderAPIController-user_id: 7
+2020-07-27 04:25:39am: OrderAPIController-order_status_id: 1
+2020-07-27 04:25:39am: OrderAPIController-cashPayment: 9.24
+2020-07-27 04:25:39am: OrderAPIController-hint: 
+2020-07-27 04:25:39am: OrderAPIController-delivery_address_id: 
+2020-07-27 04:25:39am: OrderAPIController-delivery_fee: 0
+2020-07-27 04:25:39am: OrderAPIController-places_car: HJUI77
+2020-07-27 04:25:39am: OrderAPIController-color_car: yhuuu
+2020-07-27 04:27:53am: OrderAPIController-request: POST /api/orders?api_token=jcfEIPH1eUsh3DEf03UFcX1ilWoLkg4mUTI8PmNwMWdApsFHA0k1ksJ7rz0p HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  420
+Content-Type:    application/json; charset=utf-8
+Host:            192.168.1.188
+Mod-Rewrite:     on
+User-Agent:      Dart/2.8 (dart:io)
+
+{"id":null,"user_id":"7","order_status_id":"1","tax":9.24,"hint":null,"delivery_fee":0.0,"places_car":"IIW","color_car":"red","foods":[{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["10"]},{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["34","48"]}],"payment":{"id":null,"status":null,"method":"Pay on Pickup"},"stripe_number":"","stripe_exp_month":"","stripe_exp_year":"","stripe_cvc":""}
+2020-07-27 04:27:53am: OrderAPIController-order: {"user_id":7,"order_status_id":1,"tax":9.2400000000000002131628207280300557613372802734375,"delivery_fee":0,"hint":null,"places_car":"IIW","color_car":"red","updated_at":"2020-07-27 04:27:53","created_at":"2020-07-27 04:27:53","id":20,"custom_fields":[]}
+2020-07-27 04:27:53am: OrderAPIController-user_id: 7
+2020-07-27 04:27:53am: OrderAPIController-order_status_id: 1
+2020-07-27 04:27:53am: OrderAPIController-cashPayment: 9.24
+2020-07-27 04:27:53am: OrderAPIController-hint: 
+2020-07-27 04:27:53am: OrderAPIController-delivery_address_id: 
+2020-07-27 04:27:53am: OrderAPIController-delivery_fee: 0
+2020-07-27 04:27:53am: OrderAPIController-places_car: IIW
+2020-07-27 04:27:53am: OrderAPIController-color_car: red
