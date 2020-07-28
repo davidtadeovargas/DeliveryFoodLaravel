@@ -88,3 +88,21 @@ User-Agent:      Dart/2.8 (dart:io)
 2020-07-27 04:27:53am: OrderAPIController-delivery_fee: 0
 2020-07-27 04:27:53am: OrderAPIController-places_car: IIW
 2020-07-27 04:27:53am: OrderAPIController-color_car: red
+2020-07-28 05:05:20pm: OrderAPIController-request: POST /api/orders?api_token=jcfEIPH1eUsh3DEf03UFcX1ilWoLkg4mUTI8PmNwMWdApsFHA0k1ksJ7rz0p HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  351
+Content-Type:    application/json; charset=utf-8
+Host:            192.168.1.188
+Mod-Rewrite:     on
+User-Agent:      Dart/2.8 (dart:io)
+
+{"id":null,"user_id":"7","order_status_id":"1","tax":9.24,"hint":null,"delivery_fee":0.0,"places_car":"UU5U7","color_car":"yy","foods":[{"id":null,"price":33.5,"quantity":1.0,"food_id":"4","extras":["34","48"]}],"payment":{"id":null,"status":null,"method":"Pay on Pickup"},"stripe_number":"","stripe_exp_month":"","stripe_exp_year":"","stripe_cvc":""}
+2020-07-28 05:05:21pm: OrderAPIController-order: {"user_id":7,"order_status_id":1,"tax":9.2400000000000002131628207280300557613372802734375,"delivery_fee":0,"hint":null,"places_car":"UU5U7","color_car":"yy","updated_at":"2020-07-28 17:05:20","created_at":"2020-07-28 17:05:20","id":21,"custom_fields":[]}
+2020-07-28 05:05:21pm: OrderAPIController-user_id: 7
+2020-07-28 05:05:21pm: OrderAPIController-order_status_id: 1
+2020-07-28 05:05:21pm: OrderAPIController-cashPayment: 9.24
+2020-07-28 05:05:21pm: OrderAPIController-hint: 
+2020-07-28 05:05:21pm: OrderAPIController-delivery_address_id: 
+2020-07-28 05:05:21pm: OrderAPIController-delivery_fee: 0
+2020-07-28 05:05:21pm: OrderAPIController-places_car: UU5U7
+2020-07-28 05:05:21pm: OrderAPIController-color_car: yy
