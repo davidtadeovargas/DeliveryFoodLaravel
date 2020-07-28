@@ -14,6 +14,17 @@
   </div>
 </div>
 
+
+<!-- Name Field -->
+<div class="form-group row col-6">
+  {!! Form::label('name', 'Type Selecction:', ['class' => 'col-3 control-label text-right']) !!}
+  <div class="col-9">
+    <p>{!! $extraGroup->forsez !!}</p>
+  </div>
+</div>
+
+
+
 <!-- Created At Field -->
 <div class="form-group row col-6">
   {!! Form::label('created_at', 'Created At:', ['class' => 'col-3 control-label text-right']) !!}

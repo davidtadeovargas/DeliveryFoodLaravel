@@ -66,6 +66,8 @@ class Order extends Model
         'delivery_fee'=>'double',
         'active'=>'boolean',
         'driver_id' => 'integer',
+        'places_car'=> 'string',
+        'color_car'=> 'string',
     ];
 
     /**
@@ -102,9 +104,9 @@ class Order extends Model
             return [];
         }
         $array = $this->customFieldsValues()
-            ->join('custom_fields','custom_fields.id','=','custom_field_values.custom_field_id')
-            ->where('custom_fields.in_table','=',true)
-            ->get()->toArray();
+        ->join('custom_fields','custom_fields.id','=','custom_field_values.custom_field_id')
+        ->where('custom_fields.in_table','=',true)
+        ->get()->toArray();
 
         return convertToAssoc($array,'name');
     }

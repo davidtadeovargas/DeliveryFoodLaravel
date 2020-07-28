@@ -19,7 +19,8 @@ class ExtraGroup extends Model
 
 
     public $fillable = [
-        'name'
+        'name',
+        'forzed'
     ];
 
     /**
@@ -28,7 +29,8 @@ class ExtraGroup extends Model
      * @var array
      */
     protected $casts = [
-        'name' => 'string'
+        'name' => 'string',
+        'forzed' => 'boolean'
     ];
 
     /**
@@ -37,7 +39,8 @@ class ExtraGroup extends Model
      * @var array
      */
     public static $rules = [
-        'name' => 'required'
+        'name' => 'required',
+        'forzed' => 'required'
     ];
 
     /**

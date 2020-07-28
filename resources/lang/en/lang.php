@@ -1028,6 +1028,7 @@ return [
     'extra_group_edit' => 'Edit Group Extra',
     'extra_group_name' => 'Name of the group',
     'extra_group_name_placeholder' => 'Color',
+    'extra_group_type_selecction' => 'Type Selecction',
     'extra_group_name_help' => 'Insert the extra group name (ex: color, size, taste)',
     'extra_group' => 'Extra Group',
     'order_pending' => 'Waiting for costumer',

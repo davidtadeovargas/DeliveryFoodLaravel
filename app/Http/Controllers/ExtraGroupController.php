@@ -6,9 +6,9 @@ use App\DataTables\ExtraGroupDataTable;
 use App\Http\Requests;
 use App\Http\Requests\CreateExtraGroupRequest;
 use App\Http\Requests\UpdateExtraGroupRequest;
-use App\Repositories\ExtraGroupRepository;
+use App\Models\ExtraGroup;
 use App\Repositories\CustomFieldRepository;
-
+use App\Repositories\ExtraGroupRepository;
 use Flash;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
@@ -72,11 +72,25 @@ class ExtraGroupController extends Controller
      */
     public function store(CreateExtraGroupRequest $request)
     {
-        $input = $request->all();
-        $customFields = $this->customFieldRepository->findByField('custom_field_model', $this->extraGroupRepository->model());
+
+        //dd($request);
+        //$input = $request->all();
+        //$customFields = $this->customFieldRepository->findByField('custom_field_model', $this->extraGroupRepository->model());
         try {
-            $extraGroup = $this->extraGroupRepository->create($input);
-            $extraGroup->customFieldsValues()->createMany(getCustomFieldsValues($customFields,$request));
+            //$extraGroup = $this->extraGroupRepository->create($input);
+            //$extraGroup->customFieldsValues()->createMany(getCustomFieldsValues($customFields,$request));
+
+            $extras = new ExtraGroup();
+            $extras->name  =   $request->get('name');
+
+            if ($request->get('forzed') == "true") {
+                   $extras->forzed =  true;
+            }else{
+                   $extras->forzed =  false;
+            }
+         
+            $extras->save();
+
             
         } catch (ValidatorException $e) {
             Flash::error($e->getMessage());
